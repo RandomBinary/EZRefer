@@ -2,7 +2,6 @@ EZRefer
 =======
 
 A simple refferal script written in PHP. Requires MySQL.
-
 =======
 
 To set-up EZRefer:
@@ -10,3 +9,4 @@ To set-up EZRefer:
  2. Delete users.sql
  3. Drop the files on your website.
  4. Set everything up in config.php (/incl/config.php)
+ 5. Make it look nice. :)
