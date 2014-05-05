@@ -2,6 +2,7 @@ EZRefer
 =======
 
 A simple refferal script written in PHP. Requires MySQL.
+
 =======
 
 To set-up EZRefer:
